@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App{
+    width: 30%;
+    margin: 3rem auto;
+}
+.Book{
+    width: 100%;
+    border: 1px solid #eee;
+    box-shadow: 3px 4px 3px #eee;
+    margin: 1rem 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10% 0;
+    line-height: 1.5;
+}
+.paragraph{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4070ef;
+}
